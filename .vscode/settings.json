@@ -18,5 +18,20 @@
     "titleBar.inactiveBackground": "#dda44399",
     "titleBar.inactiveForeground": "#15202b99"
   },
-  "peacock.color": "#dda443"
+  "peacock.color": "#dda443",
+  "sqltools.connections": [
+    {
+      "mysqlOptions": {
+        "authProtocol": "default"
+      },
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 3306,
+      "driver": "MySQL",
+      "name": "local",
+      "database": "courses_db",
+      "username": "root",
+      "password": "rootroot"
+    }
+  ]
 }
